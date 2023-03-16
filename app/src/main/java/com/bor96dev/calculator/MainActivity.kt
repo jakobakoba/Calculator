@@ -30,7 +30,6 @@ class MainActivity : ComponentActivity() {
                         .fillMaxSize()
                         .background(MaterialTheme.colors.background)
                         .padding(16.dp)
-
                 )
 
             }
